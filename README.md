@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">👋 Hey there <h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ashukumarverma&label=Profile%20views&color=0e75b6&style=flat" alt="ashukumarverma" /> </p><br>
-<h2 align="center"> Ashutosh Kumar<h2><hr>
+<h1 align="center"> Ashutosh Kumar<h1><hr>
 -📫 reach me here
 <a href="ashukumar3436@gmail.com">g-mail</a>
 <hr>
