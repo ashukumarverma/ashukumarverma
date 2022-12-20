@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <a href="ashukumar3436@gmail.com">g-mail</a>
 <hr>
 <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ashukumarverma&column=8&theme=gruvbox&no-frame=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ashukumarverma&column=8&theme=gruvbox&no-frame=true"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukumarverma&show_icons=true&locale=en&layout=compact" /></p>
 
