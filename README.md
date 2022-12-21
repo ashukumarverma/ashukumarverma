@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashukumarverma&show_icons=true&locale=en" /></p>
   
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashukumarverma&theme=dark" alt="streak" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashukumarverma&theme=dark)](https://git.io/streak-stats)
