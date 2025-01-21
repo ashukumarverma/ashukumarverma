@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Ashutosh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashukumarverma&theme=nord&hide_border=false&short_numbers=true&hide_longest_streak=true" width=53.7% align=left/>
   <img src="https://github-readme-stats.vercel.app/api?username=ashukumarverma&show=reviews&theme=nord" alt="ashukumarverma's GitHub Stats" width=43.7% />
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukumarverma&theme=nord&show_icons=true&layout=compact" alt="ashukumarverma's GitHub Stats" width=32.7% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukumarverma&theme=nord&show_icons=true&layout=compact" alt="ashukumarverma's GitHub Stats" height="180px" />
   <!---   
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukumarverma&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashukumarverma/github-readme-activity-graph)
   --->
