@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=88B1FD&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 <p align="center">
-   <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=007ACC" height="25"/>
-   <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=007ACC" height="25"/>
-   <img src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript&logoColor=007ACC" height="25"/>
+   <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=ff7c00" height="25"/>
+   <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=388fd3" height="25"/>
+   <img src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript&logoColor=FFC300" height="25"/>
    <img src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript&logoColor=007ACC" height="25"/>
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
    <img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  height="25"/>
