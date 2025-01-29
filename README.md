@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukumarverma&show_icons=true&locale=en&layout=compact" /> -->
 
 <div class="d-block">
-  <img alt="Ashutosh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashukumarverma&theme=nord&hide_border=false&short_numbers=true&hide_longest_streak=true" width=53.7% align=left/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashukumarverma&show=reviews&theme=nord" alt="ashukumarverma's GitHub Stats" width=43.7% />
+  <img alt="Ashutosh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashukumarverma&theme=nord&hide_border=false&short_numbers=true" width=50.7% align=left/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashukumarverma&theme=nord" alt="ashukumarverma's GitHub Stats" width=45.7% />
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukumarverma&theme=nord&show_icons=true&layout=compact" alt="ashukumarverma's GitHub Stats" height="180px" />
   <!---   
